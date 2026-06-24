@@ -133,7 +133,7 @@ git clone https://github.com/yourusername/SmartCart-Customer-Segmentation.git
 Move to the project directory:
 
 ```bash
-cd SmartCart-Customer-Segmentation
+cd SmartCart
 ```
 
 Install dependencies:
@@ -150,13 +150,11 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
 
 🔗 Streamlit App:
+## 🚀 Live Demo
 
-```text
-Add your Streamlit app URL here
-```
+🔗 https://prajwal457coder-smartcart-customer-segmentation-app-e04wpl.streamlit.app/
 
 ---
 
